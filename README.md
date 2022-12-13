@@ -1,10 +1,9 @@
 👋 Hi! I’m Ana Sofia,
 🎓 a Software Engineering Master's student.
 
+And also UX/UI designer & frontend developer.
 
-
-📫 You can reach me at mancoanasofia@gmail.com
-Feel free to drop me a line.
+📫 If you want to reach me, drop me a line at mancoanasofia@gmail.com
 
 <!---
 anasofia28/anasofia28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
